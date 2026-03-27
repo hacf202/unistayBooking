@@ -283,9 +283,9 @@ export default function Home() {
 								className='text-2xl font-black text-white flex items-center gap-2'
 							>
 								<span className='text-blue-500'>
-									<img className='w-10 h-10' src='/logo.png' alt='' /> Khách
-									SạnViệt
-								</span>{" "}
+									<img className='w-10 h-10' src='/logo.png' alt='' /> Khách Sạn
+									Việt
+								</span>
 							</Link>
 							<p className='text-gray-400 leading-relaxed text-sm'>
 								Trải nghiệm không gian nghỉ dưỡng đẳng cấp, dịch vụ tận tâm và
