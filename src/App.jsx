@@ -82,7 +82,8 @@ const Header = () => {
 					to='/'
 					className='text-2xl font-black text-blue-600 flex items-center gap-2 hover:opacity-80 transition transform hover:scale-105 active:scale-95'
 				>
-					🏢 Khách Sạn Việt
+					<img className='w-10 h-10' src='/logo.png' alt='' />
+					Khách Sạn Việt
 				</Link>
 
 				{/* Chức năng 2: Thanh tìm kiếm có hiển thị đề xuất */}
