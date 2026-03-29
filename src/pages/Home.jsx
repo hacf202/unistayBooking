@@ -283,8 +283,12 @@ export default function Home() {
 								className='text-2xl font-black text-white flex items-center gap-2'
 							>
 								<span className='text-blue-500'>
-									<img className='w-10 h-10' src='/logo.png' alt='' /> Khách Sạn
-									Việt
+									<img
+										className='w-10 h-10'
+										src='https://images.pocguide.top/easteregg/Screenshot-2026-03-29-155503.webp'
+										alt=''
+									/>{" "}
+									Khách Sạn Việt
 								</span>
 							</Link>
 							<p className='text-gray-400 leading-relaxed text-sm'>

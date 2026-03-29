@@ -82,7 +82,11 @@ const Header = () => {
 					to='/'
 					className='text-2xl font-black text-blue-600 flex items-center gap-2 hover:opacity-80 transition transform hover:scale-105 active:scale-95'
 				>
-					<img className='w-10 h-10' src='/logo.png' alt='' />
+					<img
+						className='w-10 h-10'
+						src='https://images.pocguide.top/easteregg/Screenshot-2026-03-29-155503.webp'
+						alt=''
+					/>
 					Khách Sạn Việt
 				</Link>
 
